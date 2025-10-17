@@ -1,0 +1,11 @@
+ignoredBuiltDependencies:
+  - bufferutil
+  - unrs-resolver
+
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - '@vscode/ripgrep'
+  - core-js
+  - esbuild
+  - sharp
+  - utf-8-validate
